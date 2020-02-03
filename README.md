@@ -1,7 +1,7 @@
 Introduction
 ============
 
-**ikoPay** is a fully responsive administration template. Add backend functionality as you please
+**ikoPay** is fully responsive, backend functionality to be added
 
 
 Usage
